@@ -1,6 +1,9 @@
 const express = require('express');
 const server = express();
-const port = process.env.PORT || 3000;
+const cors = require('cors');
+const port = process.env.PORT || 3001;
+
+server.use(cors());
 
 const musicas = require('./src/data/musicas.json');
 
