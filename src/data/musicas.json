@@ -12,6 +12,216 @@
         "artista": "Paramore",
         "foto": "https://firebasestorage.googleapis.com/v0/b/music-player-c978b.appspot.com/o/2.jpg?alt=media&token=e6fbcbd6-4283-4011-8dd7-35d9fe06f22b&_gl=1*djfod8*_ga*MTE0MzkzNjEyMi4xNjg0MjAwMDEy*_ga_CW55HF8NVT*MTY4NTg5OTA4Mi43LjEuMTY4NTg5OTA5Ni4wLjAuMA..",
         "audio": "https://firebasestorage.googleapis.com/v0/b/music-player-c978b.appspot.com/o/2.mp3?alt=media&token=bf2536c0-207d-47b3-9dbd-be5ca6fd5df8&_gl=1*108tt7p*_ga*MTE0MzkzNjEyMi4xNjg0MjAwMDEy*_ga_CW55HF8NVT*MTY4NTg5OTA4Mi43LjEuMTY4NTg5OTExOS4wLjAuMA.."
+    },
+    {
+        "id": "2",
+        "nome": "The News",
+        "artista": "Paramore",
+        "foto": "https://firebasestorage.googleapis.com/v0/b/music-player-c978b.appspot.com/o/3.jpg?alt=media&token=1f0f1f5e-d7d3-476a-9526-7be49565b1aa&_gl=1*worgha*_ga*MTE0MzkzNjEyMi4xNjg0MjAwMDEy*_ga_CW55HF8NVT*MTY4NTkyNjc0MS44LjEuMTY4NTkyNjg4NS4wLjAuMA..",
+        "audio": "https://firebasestorage.googleapis.com/v0/b/music-player-c978b.appspot.com/o/3.mp3?alt=media&token=00d3d7da-5d3b-4a1b-bb9b-072bd8e1502b&_gl=1*1apm6y3*_ga*MTE0MzkzNjEyMi4xNjg0MjAwMDEy*_ga_CW55HF8NVT*MTY4NTkyNjc0MS44LjEuMTY4NTkyNjg5NS4wLjAuMA.."
+    },
+    {
+        "id": "3",
+        "nome": "Little Dark Age",
+        "artista": "MGMT",
+        "foto": "https://firebasestorage.googleapis.com/v0/b/music-player-c978b.appspot.com/o/4.jpg?alt=media&token=105413a4-b997-4a83-bbe2-8b0c57676aee&_gl=1*1ubauje*_ga*MTE0MzkzNjEyMi4xNjg0MjAwMDEy*_ga_CW55HF8NVT*MTY4NTkyODcxOS45LjEuMTY4NTkyODg3OC4wLjAuMA..",
+        "audio": "https://firebasestorage.googleapis.com/v0/b/music-player-c978b.appspot.com/o/4.mp3?alt=media&token=291c1bce-3ba0-4608-9a91-6d720bbd065f&_gl=1*1i31q5x*_ga*MTE0MzkzNjEyMi4xNjg0MjAwMDEy*_ga_CW55HF8NVT*MTY4NTkyODcxOS45LjEuMTY4NTkyODg4Ny4wLjAuMA.."
+    },
+    {
+        "id": "4",
+        "nome": "Circle With Me",
+        "artista": "Spiribox",
+        "foto": "https://firebasestorage.googleapis.com/v0/b/music-player-c978b.appspot.com/o/5.png?alt=media&token=b0c86ba6-4efe-40d5-8dcd-eebedee79228&_gl=1*dnxahb*_ga*MTE0MzkzNjEyMi4xNjg0MjAwMDEy*_ga_CW55HF8NVT*MTY4NTkyODcxOS45LjEuMTY4NTkyODkwMC4wLjAuMA..",
+        "audio": "https://firebasestorage.googleapis.com/v0/b/music-player-c978b.appspot.com/o/5.mp3?alt=media&token=b9c24f69-956d-419c-8dc0-ac0f7de458f0&_gl=1*vrkkkp*_ga*MTE0MzkzNjEyMi4xNjg0MjAwMDEy*_ga_CW55HF8NVT*MTY4NTkyODcxOS45LjEuMTY4NTkyODkxMi4wLjAuMA.."
+    },
+    {
+        "id": "5",
+        "nome": "Lo malo de ser bueno",
+        "artista": "El Cuarteto De Nos",
+        "foto": "https://firebasestorage.googleapis.com/v0/b/music-player-c978b.appspot.com/o/6.jpeg?alt=media&token=df6e36e5-c570-4d3d-8e13-29c8197b7404&_gl=1*1g8o9vz*_ga*MTE0MzkzNjEyMi4xNjg0MjAwMDEy*_ga_CW55HF8NVT*MTY4NTkyODcxOS45LjEuMTY4NTkyODkyNC4wLjAuMA..",
+        "audio": "https://firebasestorage.googleapis.com/v0/b/music-player-c978b.appspot.com/o/6.mp3?alt=media&token=16d81575-b4ce-4147-ab20-28aa9e5b3ce9&_gl=1*1cotrey*_ga*MTE0MzkzNjEyMi4xNjg0MjAwMDEy*_ga_CW55HF8NVT*MTY4NTkyODcxOS45LjEuMTY4NTkyODkzNS4wLjAuMA.."
+    },
+    {
+        "id": "6",
+        "nome": "Controllah",
+        "artista": "Gorillaz, MC Bin Laden",
+        "foto": "https://firebasestorage.googleapis.com/v0/b/music-player-c978b.appspot.com/o/7.jpg?alt=media&token=6c3bba87-d101-491a-8c25-9d5229b58db5&_gl=1*11a7cy4*_ga*MTE0MzkzNjEyMi4xNjg0MjAwMDEy*_ga_CW55HF8NVT*MTY4NTkyODcxOS45LjEuMTY4NTkyODk0NC4wLjAuMA..",
+        "audio": "https://firebasestorage.googleapis.com/v0/b/music-player-c978b.appspot.com/o/7.mp3?alt=media&token=08f99492-38f1-4b3e-a5db-a2194f87a090&_gl=1*pgumrt*_ga*MTE0MzkzNjEyMi4xNjg0MjAwMDEy*_ga_CW55HF8NVT*MTY4NTkyODcxOS45LjEuMTY4NTkyODk1NC4wLjAuMA.."
+    },
+    {
+        "id": "7",
+        "nome": "When You Die",
+        "artista": "MGMT",
+        "foto": "https://firebasestorage.googleapis.com/v0/b/music-player-c978b.appspot.com/o/8.jpeg?alt=media&token=dbd57a9e-8b02-4643-bd12-48cc80d9f49f&_gl=1*1rgrc0y*_ga*MTE0MzkzNjEyMi4xNjg0MjAwMDEy*_ga_CW55HF8NVT*MTY4NTkyODcxOS45LjEuMTY4NTkyODk2NS4wLjAuMA..",
+        "audio": "https://firebasestorage.googleapis.com/v0/b/music-player-c978b.appspot.com/o/8.mp3?alt=media&token=52876b40-1a83-4d6b-83f4-ad163a28105d&_gl=1*1vobge7*_ga*MTE0MzkzNjEyMi4xNjg0MjAwMDEy*_ga_CW55HF8NVT*MTY4NTkyODcxOS45LjEuMTY4NTkyODk3Ni4wLjAuMA.."
+    },
+    {
+        "id": "8",
+        "nome": "Fade To Black - Resmastered",
+        "artista": "Metallica",
+        "foto": "https://firebasestorage.googleapis.com/v0/b/music-player-c978b.appspot.com/o/9.jpg?alt=media&token=12c2ffc9-cb39-4a0c-b6ee-b753a6a50e38&_gl=1*vd9dqz*_ga*MTE0MzkzNjEyMi4xNjg0MjAwMDEy*_ga_CW55HF8NVT*MTY4NTkyODcxOS45LjEuMTY4NTkyODk4OC4wLjAuMA..",
+        "audio": "https://firebasestorage.googleapis.com/v0/b/music-player-c978b.appspot.com/o/9.mp3?alt=media&token=4155d14f-912d-40c6-b804-6f6715963b23&_gl=1*1ygy3zd*_ga*MTE0MzkzNjEyMi4xNjg0MjAwMDEy*_ga_CW55HF8NVT*MTY4NTkyODcxOS45LjEuMTY4NTkyODk5Ny4wLjAuMA.."
+    },
+    {
+        "id": "9",
+        "nome": "Ain't Shit",
+        "artista": "Doja Cat",
+        "foto": "https://firebasestorage.googleapis.com/v0/b/music-player-c978b.appspot.com/o/10.png?alt=media&token=0c4fb912-4361-41eb-992a-130a570e9b27&_gl=1*bscdde*_ga*MTE0MzkzNjEyMi4xNjg0MjAwMDEy*_ga_CW55HF8NVT*MTY4NTkyODcxOS45LjEuMTY4NTkyOTAwOC4wLjAuMA..",
+        "audio": "https://firebasestorage.googleapis.com/v0/b/music-player-c978b.appspot.com/o/10.mp3?alt=media&token=84b73e6d-1cf3-4990-bdca-b2104b70a746&_gl=1*pn6bu8*_ga*MTE0MzkzNjEyMi4xNjg0MjAwMDEy*_ga_CW55HF8NVT*MTY4NTkyODcxOS45LjEuMTY4NTkyOTAxNy4wLjAuMA.."
+    },
+    {
+        "id": "10",
+        "nome": "Dai a Cesar o Que É de Cesar",
+        "artista": "Cesar Mc, Pineapple StormTv, Tibery, Felipe Artioli",
+        "foto": "https://firebasestorage.googleapis.com/v0/b/music-player-c978b.appspot.com/o/11.jpg?alt=media&token=7a60dc2b-fbc0-4ab0-bee5-0d5dd2eb0292&_gl=1*1e4hnfc*_ga*MTE0MzkzNjEyMi4xNjg0MjAwMDEy*_ga_CW55HF8NVT*MTY4NTkyODcxOS45LjEuMTY4NTkyOTAyOC4wLjAuMA..",
+        "audio": "https://firebasestorage.googleapis.com/v0/b/music-player-c978b.appspot.com/o/11.mp3?alt=media&token=ff36e8f5-35a4-49b3-b11c-eb73a31b0c2a&_gl=1*ofisip*_ga*MTE0MzkzNjEyMi4xNjg0MjAwMDEy*_ga_CW55HF8NVT*MTY4NTkyODcxOS45LjEuMTY4NTkyOTAzNy4wLjAuMA.."
+    },
+    {
+        "id": "11",
+        "nome": "Severance",
+        "artista": "Ballburya",
+        "foto": "",
+        "audio": ""
+    },
+    {
+        "id": "12",
+        "nome": "The Adults Are Talking",
+        "artista": "The Strokes",
+        "foto": "",
+        "audio": ""
+    },
+    {
+        "id": "13",
+        "nome": "Love Me More",
+        "artista": "Mitski",
+        "foto": "",
+        "audio": ""
+    },
+    {
+        "id": "14",
+        "nome": "São Pixinguinha - A colors Show",
+        "artista": "Emicida",
+        "foto": "",
+        "audio": ""
+    },
+    {
+        "id": "15",
+        "nome": "Hoje Cedo",
+        "artista": "Emicida",
+        "foto": "",
+        "audio": ""
+    },
+    {
+        "id": "16",
+        "nome": "Digital Wintness",
+        "artista": "St. Vincent",
+        "foto": "",
+        "audio": ""
+    },
+    {
+        "id": "17",
+        "nome": "See You Again",
+        "artista": "Tyler, The Creator, Kali Uchis",
+        "foto": "",
+        "audio": ""
+    },
+    {
+        "id": "18",
+        "nome": "EARFQUAKE",
+        "artista": "Tyler, The Creator",
+        "foto": "",
+        "audio": ""
+    },
+    {
+        "id": "19",
+        "nome": "Runaway",
+        "artista": "Half Alive",
+        "foto": "",
+        "audio": ""
+    },
+    {
+        "id": "20",
+        "nome": "Still Feel",
+        "artista": "Half Alive",
+        "foto": "",
+        "audio": ""
+    },
+    {
+        "id": "21",
+        "nome": "Eventually",
+        "artista": "Tame Impala",
+        "foto": "",
+        "audio": ""
+    },
+    {
+        "id": "22",
+        "nome": "The Less I Know The Better",
+        "artista": "Tame Impala",
+        "foto": "",
+        "audio": ""
+    },
+    {
+        "id": "23",
+        "nome": "Are U gonna tell her?",
+        "artista": "Tove Lo, ZAAC",
+        "foto": "",
+        "audio": ""
+    },
+    {
+        "id": "24",
+        "nome": "BxMxC",
+        "artista": "BabyMetal",
+        "foto": "",
+        "audio": ""
+    },
+    {
+        "id": "25",
+        "nome": "Sudden Desire",
+        "artista": "Hayley Williams",
+        "foto": "",
+        "audio": ""
+    },
+    {
+        "id": "26",
+        "nome": "Pure Love",
+        "artista": "Hayley Williams",
+        "foto": "",
+        "audio": ""
+    },
+    {
+        "id": "27",
+        "nome": "Watch Me While I Bloom",
+        "artista": "Hayley Williams",
+        "foto": "",
+        "audio": ""
+    },
+    {
+        "id": "28",
+        "nome": "Moral Concience",
+        "artista": "Kali Uchis",
+        "foto": "",
+        "audio": ""
+    },
+    {
+        "id": "29",
+        "nome": "Moonlight",
+        "artista": "Kali Uchis",
+        "foto": "",
+        "audio": ""
+    },
+    {
+        "id": "30",
+        "nome": "Like a Girl",
+        "artista": "Lizzo",
+        "foto": "",
+        "audio": ""
+    },
+    {
+        "id": "31",
+        "nome": "Déclaration",
+        "artista": "Stromae",
+        "foto": "",
+        "audio": ""
     }
 
 ]
