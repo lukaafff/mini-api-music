@@ -25,7 +25,7 @@
         "nome": "Little Dark Age",
         "artista": "MGMT",
         "foto": "https://firebasestorage.googleapis.com/v0/b/music-player-c978b.appspot.com/o/4.jpg?alt=media&token=105413a4-b997-4a83-bbe2-8b0c57676aee&_gl=1*1ubauje*_ga*MTE0MzkzNjEyMi4xNjg0MjAwMDEy*_ga_CW55HF8NVT*MTY4NTkyODcxOS45LjEuMTY4NTkyODg3OC4wLjAuMA..",
-        "audio": "https://firebasestorage.googleapis.com/v0/b/music-player-c978b.appspot.com/o/4.mp3?alt=media&token=291c1bce-3ba0-4608-9a91-6d720bbd065f&_gl=1*1i31q5x*_ga*MTE0MzkzNjEyMi4xNjg0MjAwMDEy*_ga_CW55HF8NVT*MTY4NTkyODcxOS45LjEuMTY4NTkyODg4Ny4wLjAuMA.."
+        "audio": "https://firebasestorage.googleapis.com/v0/b/music-player-c978b.appspot.com/o/4.mp3?alt=media&token=38f8ad5c-34fd-44bf-b0bd-a7e058574019"
     },
     {
         "id": "4",
@@ -80,148 +80,8 @@
         "id": "11",
         "nome": "Severance",
         "artista": "Ballburya",
-        "foto": "",
-        "audio": ""
-    },
-    {
-        "id": "12",
-        "nome": "The Adults Are Talking",
-        "artista": "The Strokes",
-        "foto": "",
-        "audio": ""
-    },
-    {
-        "id": "13",
-        "nome": "Love Me More",
-        "artista": "Mitski",
-        "foto": "",
-        "audio": ""
-    },
-    {
-        "id": "14",
-        "nome": "São Pixinguinha - A colors Show",
-        "artista": "Emicida",
-        "foto": "",
-        "audio": ""
-    },
-    {
-        "id": "15",
-        "nome": "Hoje Cedo",
-        "artista": "Emicida",
-        "foto": "",
-        "audio": ""
-    },
-    {
-        "id": "16",
-        "nome": "Digital Wintness",
-        "artista": "St. Vincent",
-        "foto": "",
-        "audio": ""
-    },
-    {
-        "id": "17",
-        "nome": "See You Again",
-        "artista": "Tyler, The Creator, Kali Uchis",
-        "foto": "",
-        "audio": ""
-    },
-    {
-        "id": "18",
-        "nome": "EARFQUAKE",
-        "artista": "Tyler, The Creator",
-        "foto": "",
-        "audio": ""
-    },
-    {
-        "id": "19",
-        "nome": "Runaway",
-        "artista": "Half Alive",
-        "foto": "",
-        "audio": ""
-    },
-    {
-        "id": "20",
-        "nome": "Still Feel",
-        "artista": "Half Alive",
-        "foto": "",
-        "audio": ""
-    },
-    {
-        "id": "21",
-        "nome": "Eventually",
-        "artista": "Tame Impala",
-        "foto": "",
-        "audio": ""
-    },
-    {
-        "id": "22",
-        "nome": "The Less I Know The Better",
-        "artista": "Tame Impala",
-        "foto": "",
-        "audio": ""
-    },
-    {
-        "id": "23",
-        "nome": "Are U gonna tell her?",
-        "artista": "Tove Lo, ZAAC",
-        "foto": "",
-        "audio": ""
-    },
-    {
-        "id": "24",
-        "nome": "BxMxC",
-        "artista": "BabyMetal",
-        "foto": "",
-        "audio": ""
-    },
-    {
-        "id": "25",
-        "nome": "Sudden Desire",
-        "artista": "Hayley Williams",
-        "foto": "",
-        "audio": ""
-    },
-    {
-        "id": "26",
-        "nome": "Pure Love",
-        "artista": "Hayley Williams",
-        "foto": "",
-        "audio": ""
-    },
-    {
-        "id": "27",
-        "nome": "Watch Me While I Bloom",
-        "artista": "Hayley Williams",
-        "foto": "",
-        "audio": ""
-    },
-    {
-        "id": "28",
-        "nome": "Moral Concience",
-        "artista": "Kali Uchis",
-        "foto": "",
-        "audio": ""
-    },
-    {
-        "id": "29",
-        "nome": "Moonlight",
-        "artista": "Kali Uchis",
-        "foto": "",
-        "audio": ""
-    },
-    {
-        "id": "30",
-        "nome": "Like a Girl",
-        "artista": "Lizzo",
-        "foto": "",
-        "audio": ""
-    },
-    {
-        "id": "31",
-        "nome": "Déclaration",
-        "artista": "Stromae",
-        "foto": "",
-        "audio": ""
+        "foto": "https://firebasestorage.googleapis.com/v0/b/music-player-c978b.appspot.com/o/12.png?alt=media&token=e14dfe8c-58c6-4923-93d0-e455f76bc855",
+        "audio": "https://firebasestorage.googleapis.com/v0/b/music-player-c978b.appspot.com/o/12.mp3?alt=media&token=22a5e25b-abd4-40f5-8737-b295e681fb3a"
     }
 
 ]
